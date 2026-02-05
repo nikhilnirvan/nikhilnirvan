@@ -34,10 +34,5 @@ A detail-oriented **Tester and Java Developer** with hands-on experience in **ma
 
 ---
 
-### 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilnirvan&show_icons=true&theme=default)
-
----
-
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilnirvan&color=blue)
